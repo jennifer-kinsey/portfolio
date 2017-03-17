@@ -1,7 +1,48 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+
+#about-me{
+  font-family: 'Raleway', sans-serif;
+}
+
 img{
   max-width: 33%;
 }
 
 .jumbotron {
   text-align: center;
+}
+
+.panel {
+  min-height: 50%;
+}
+
+.col-md-3{
+  height:925px;
+}
+
+h2{
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+h1{
+  margin-bottom: 0;
+}
+
+.purple-line-left {
+  float:left;
+  height: 400px;
+}
+
+.purple-line-right{
+  float:right;
+  height: 400px;
+  -moz-transform: scaleX(-1);
+  -o-transform: scaleX(-1);
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+  filter: FlipH;
+  -ms-filter: "FlipH";
 }
