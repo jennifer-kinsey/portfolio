@@ -6,13 +6,16 @@
 
 ## Description
 
-_Initial portfolio to add projects and update with more skills as time progresses. Portfolio was built using HTML, CSS, and Bootstrap._
+_Initial portfolio to add projects and update with more skills and updated projects as time progresses. Portfolio was built using HTML, CSS, and Bootstrap._
 
 ## Setup/Installation Requirements
 
 * _Download repository_
 * _open in your favorite text editor_
-* _or just check it out the github page: jennifer-kinsey.github.io/portfolio_
+
+## Github Page
+
+_jennifer-kinsey.github.io/portfolio_
 
 ## Known Bugs
 

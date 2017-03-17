@@ -4,40 +4,6 @@ body{
   background-repeat: repeat;
 }
 
-#about-me{
-  font-family: 'Raleway', sans-serif;
-}
-
-#about-me img{
-  max-width: 33%;
-  margin-bottom: 20px;
-}
-
-.well img{
-  max-width: 40%;
-}
-
-#about-me p{
-  line-height: .85;
-}
-
-.jumbotron, .well {
-  text-align: center;
-}
-
-
-.panel {
-  min-height: 50%;
-}
-
-div .col-md-4 .panel-body {
-  min-height:302px;
-}
-
-div .col-md-3 .panel-body {
-  min-height:429.5px;
-}
-
 h2{
   margin-top: 0;
   margin-bottom: 20px;
@@ -55,6 +21,35 @@ span{
   font-style: italic;
 }
 
+#about-me{
+  font-family: 'Raleway', sans-serif;
+}
+
+#about-me img{
+  max-width: 33%;
+  margin-bottom: 20px;
+}
+
+#about-me p{
+  line-height: .85;
+}
+
+.panel {
+  min-height: 50%;
+}
+
+.jumbotron, .well {
+  text-align: center;
+}
+
+.well img{
+  max-width: 40%;
+}
+
+.panel-body img{
+  height:100%;
+  width: 100%;
+}
 
 .purple-line-left {
   float:left;
@@ -89,7 +84,10 @@ a:active {
     color: #000;
 }
 
-.panel-body img{
-  height:100%;
-  width: 100%;
+div .col-md-4 .panel-body {
+  min-height:302px;
+}
+
+div .col-md-3 .panel-body {
+  min-height:429.5px;
 }
