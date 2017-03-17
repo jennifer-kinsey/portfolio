@@ -32,6 +32,10 @@ div .col-md-4 .panel-body {
   min-height:302px;
 }
 
+div .col-md-3 .panel-body {
+  min-height:429.5px;
+}
+
 h2{
   margin-top: 0;
   margin-bottom: 20px;
@@ -80,5 +84,6 @@ a:active {
 }
 
 .panel-body img{
-  height:250px;
+  height:100%;
+  width: 100%;
 }
