@@ -13,14 +13,16 @@ body{
   margin-bottom: 20px;
 }
 
+.well img{
+  max-width: 40%;
+}
+
 #about-me p{
   line-height: .85;
 }
 
-.jumbotron {
+.jumbotron, .well {
   text-align: center;
-  border-color: #ddd;
-  border: 5px;
 }
 
 
@@ -47,6 +49,10 @@ h1{
 
 em{
   font-family: 'Lobster', cursive;
+}
+
+span{
+  font-style: italic;
 }
 
 
