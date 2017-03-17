@@ -28,8 +28,8 @@ body{
   min-height: 50%;
 }
 
-.col-md-3{
-  height:925px;
+div .col-md-4 .panel-body {
+  min-height:302px;
 }
 
 h2{
@@ -77,4 +77,8 @@ a:hover {
 
 a:active {
     color: #000;
+}
+
+.panel-body img{
+  height:250px;
 }
