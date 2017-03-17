@@ -1,6 +1,6 @@
 # _Epicodus Portfolio_
 
-#### _Work in progress Portfolio, 03/17/17_
+#### _A work in progress portfolio, 03/17/17_
 
 #### By _**Jennifer Kinsey**_
 

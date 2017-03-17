@@ -17,15 +17,9 @@ body{
 
 .jumbotron {
   text-align: center;
+  background-color: rgb(201,197,203, 0.9) !important;
 }
 
-.jumbotron, .panel-heading {
-    background-color: rgb(201,197,203, 0.9) !important;
-  }
-
-  .panel-body{
-    background-color: rgb(186,172,189, .5) !important;
-  }
 
 .panel {
   min-height: 50%;
@@ -44,6 +38,11 @@ h1{
   margin-bottom: 0;
 }
 
+em{
+  font-family: 'Lobster', cursive;
+}
+
+
 .purple-line-left {
   float:left;
   height: 400px;
@@ -58,4 +57,21 @@ h1{
   transform: scaleX(-1);
   filter: FlipH;
   -ms-filter: "FlipH";
+}
+
+ a:link{
+  color: #68228B;
+}
+
+a:visited {
+    color: #BDA0CB;
+}
+
+a:hover {
+    color: #CC92C2;
+    text-decoration: none;
+}
+
+a:active {
+    color: #000;
 }
