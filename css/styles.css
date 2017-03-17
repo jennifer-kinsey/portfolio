@@ -1,5 +1,7 @@
 body{
   font-family: 'Open Sans', sans-serif;
+  background-image: url("../img/small_steps.png");
+  background-repeat: repeat;
 }
 
 #about-me{
@@ -17,7 +19,8 @@ body{
 
 .jumbotron {
   text-align: center;
-  background-color: rgb(201,197,203, 0.9) !important;
+  border-color: #ddd;
+  border: 5px;
 }
 
 
